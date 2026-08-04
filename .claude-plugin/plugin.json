@@ -1,0 +1,13 @@
+{
+  "name": "airo-agent-skills",
+  "displayName": "AIRO agent skills",
+  "version": "0.1.0",
+  "description": "Reusable skills for coding agents, maintained by the AIRO lab at Ghent University",
+  "author": {
+    "name": "AIRO",
+    "url": "https://airo.ugent.be/"
+  },
+  "repository": "https://github.com/airo-ugent/airo-agent-skills",
+  "license": "MIT",
+  "keywords": ["airo", "documentation", "robotics", "writing-style"]
+}
