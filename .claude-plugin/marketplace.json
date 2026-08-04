@@ -1,0 +1,17 @@
+{
+  "name": "airo-agent-skills",
+  "description": "Reusable skills for coding agents, maintained by the AIRO lab at Ghent University",
+  "owner": {
+    "name": "AIRO",
+    "email": "Dries.Marzougui@ugent.be",
+    "url": "https://github.com/airo-ugent"
+  },
+  "plugins": [
+    {
+      "name": "airo-agent-skills",
+      "source": "./",
+      "description": "The lab's shared agent skills, currently the AIRO documentation voice",
+      "version": "0.1.0"
+    }
+  ]
+}
